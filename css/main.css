@@ -25,6 +25,7 @@ section {
 
 section > p {
     padding-bottom: 2em;
+    padding-left: 10px;
 }
 
 .normal {
